@@ -3,3 +3,6 @@
 
 # Fix colors for vim running in tmux
 if [[ $TERM == xterm ]]; then TERM=xterm-256color; fi
+
+# Aliases
+alias ll='ls -lah'
