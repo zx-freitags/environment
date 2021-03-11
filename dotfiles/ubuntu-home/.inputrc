@@ -1,0 +1,3 @@
+# search backward with matching prefix, using arrow keys.
+"\e[A": history-search-backward
+"\e[B": history-search-forward
